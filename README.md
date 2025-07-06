@@ -13,3 +13,11 @@ Optical Flow: Utilized for motion tracking to estimate the movement of players f
 Perspective Transformation: Converts 2D video coordinates into a real-world perspective, enabling accurate distance and speed calculations.
 
 By combining these techniques, the system can analyze football match footage and compute each player's speed and total distance covered in meters, offering valuable insights for coaching, player evaluation, and game analysis.
+
+
+
+## Sample video
+-  [Sample input video](https://drive.google.com/file/d/1ULA7d9fDhE3L30Juakgw3wRpasP1A7m2/view?usp=drive_link)
+
+## Trained Models
+- [Output video](https://drive.google.com/file/d/1pFNukq29K5Ju4wQ8fyyxlq5vkkwg0L3J/view?usp=drive_link)
